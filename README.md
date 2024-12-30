@@ -21,7 +21,7 @@ Higher monthly eviction rates are mapped to louder, lower-pitched notes, and low
 * **Additional audio:** I captured audio from news segments on YouTube, as well as cricket sounds from freesound.org. The news segments are meant to help tell the story and inform the reader what historical/legislative events are happening over time.
 * **Additional time marker:** The trianlge sound indicates the passing of each year (temporal context).
 
-### Original Publication (RJI Fellowship Article)
+### Original Publication (RJI Fellowship Article):
 * Article, ["Customization is key to a compelling sonification"](https://rjionline.org/news/customization-is-key-to-a-compelling-sonification/)
 * [GitHub repository](https://github.com/awalmer-rji/NYC-Evictions-Sonification/) with materials for readers to replicate the sonification process
 

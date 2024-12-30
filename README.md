@@ -12,7 +12,7 @@ Higher monthly eviction rates are mapped to louder, lower-pitched notes, and low
 * Matt Russo's [Tutorial](https://youtu.be/DUdLRy8i9qI?si=vGBBpAzAX5cnGiZp) on YouTube (I adapted this method)
 * Original [Python script](https://github.com/SYSTEMSounds/sonification-tutorials/blob/main/data2midi-part1.py) on GitHub
 * Data from [NYC OpenData](https://data.cityofnewyork.us/City-Government/Evictions/6z8x-wfk4/data_preview), inspired by [Data Is Plural](https://www.data-is-plural.com/archive/2024-09-25-edition/) (thanks, Jeremy Singer-Vine!)
-* Audio clips from YouTube and freesound.org
+* Audio clips from YouTube and [freesound.org](https://freesound.org/)
 * Logic Pro X for audio editing
 
 ### Design Rationale:
@@ -26,7 +26,7 @@ Higher monthly eviction rates are mapped to louder, lower-pitched notes, and low
 * [GitHub repository](https://github.com/awalmer-rji/NYC-Evictions-Sonification/) with materials for readers to replicate the sonification process
 
 ### About Author:
-Aura Walmer
-www.aurawalmer.com
+Aura Walmer  
+www.aurawalmer.com  
 aurawalmer@gmail.com
 

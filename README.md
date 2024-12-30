@@ -16,10 +16,10 @@ Higher monthly eviction rates are mapped to louder, lower-pitched notes, and low
 * Logic Pro X for audio editing
 
 ### Design Rationale:
-**Mapping:** Lower, louder notes correspond to larger eviction rates, while higher, quieter notes correspond to smaller eviction rates. I made this choice because the deeper notes have a more resounding, impactful effect.
-**Musical key:** C Aeolian. Thematically, the topic of resident evictions is a somber one. I wanted the tone to reflect that.
-**Additional audio:** I captured audio from news segments on YouTube, as well as cricket sounds from freesound.org. The news segments are meant to help tell the story and inform the reader what historical/legislative events are happening over time.
-**Additional time marker:** The trianlge sound indicates the passing of each year (temporal context).
+* **Mapping:** Lower, louder notes correspond to larger eviction rates, while higher, quieter notes correspond to smaller eviction rates. I made this choice because the deeper notes have a more resounding, impactful effect.
+* **Musical key:** C Aeolian. Thematically, the topic of resident evictions is a somber one. I wanted the tone to reflect that.
+* **Additional audio:** I captured audio from news segments on YouTube, as well as cricket sounds from freesound.org. The news segments are meant to help tell the story and inform the reader what historical/legislative events are happening over time.
+* **Additional time marker:** The trianlge sound indicates the passing of each year (temporal context).
 
 ### Original Publication (RJI Fellowship Article)
 * Article, ["Customization is key to a compelling sonification"](https://rjionline.org/news/customization-is-key-to-a-compelling-sonification/)

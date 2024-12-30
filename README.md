@@ -1,9 +1,13 @@
 # New York City Evictions Data Sonification
 
 In the midst of an affordable housing crisis, New York City has faced an ongoing problem of eviction. In 2017, the city reached a peak level of evictions, with over 20 thousand New Yorkers being asked to leave their home. While the COVID-19 pandemic moratorium gave New Yorkers a break from this threat, evictions are now back on the rise.  
+
 This data sonification conveys the rate of housing evictions in New York City from January 2017 to October 2024.  
+
 I created this sonification by adapting Matt Russo’s approach using Python, and by editing the MIDI file in Logic Pro X. Data was sourced from NYC OpenData.  
+
 Higher monthly eviction rates are mapped to louder, lower-pitched notes, and lower monthly eviction rates are mapped to quieter, higher-pitched notes. Each passing year is marked with a triangle ding. News segment audio is also layered into the sonification to indicate important events and societal changes. Cricket sounds mark the Covid-19 pandemic.  
+
 The sonification is standalone audio, but can also be watched on YouTube; the audio-visual version contains a narrated introduction, listener training, and an animated data visualization.  
 
 ### Sonification:
